@@ -1,0 +1,15 @@
+manifest:
+  remotes:
+    - name: akadimia
+      url-base: https://github.com/liangyongqin
+
+  projects:
+    - name: sdk-akadimia
+      remote: akadimia
+      repo-path: sdk-akadimia
+      revision: main
+      path: sdk-akadimia
+      import: true
+      
+  self:
+    path: .
