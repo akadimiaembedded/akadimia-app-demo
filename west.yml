@@ -4,11 +4,11 @@ manifest:
       url-base: https://github.com/liangyongqin
 
   projects:
-    - name: sdk-akadimia
+    - name: akadimia-sdk
       remote: akadimia
-      repo-path: sdk-akadimia
+      repo-path: akadimia-sdk
       revision: main
-      path: sdk-akadimia
+      path: akadimia-sdk
       import: true
       
   self:
