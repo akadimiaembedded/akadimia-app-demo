@@ -1,12 +1,11 @@
 manifest:
   remotes:
-    - name: akadimia
-      url-base: https://github.com/liangyongqin
+    - name: akadimia-embedded
+      url-base: https://github.com/akadimiaembedded
 
   projects:
     - name: akadimia-sdk
-      remote: akadimia
-      repo-path: akadimia-sdk
+      remote: akadimia-embedded
       revision: main
       path: akadimia-sdk
       import: true
