@@ -1,0 +1,24 @@
+﻿---
+BasedOnStyle: WebKit
+IndentWidth: 8
+TabWidth: 8
+UseTab: Always
+BreakBeforeBraces: Linux
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+AlwaysBreakAfterReturnType: None
+PointerAlignment: Right
+ColumnLimit: 80
+SpacesInParentheses: false
+SpaceBeforeParens: ControlStatements
+IndentCaseLabels: false
+AlignAfterOpenBracket: Align
+AlignConsecutiveAssignments: false
+AlignOperands: false
+BinPackArguments: false
+BinPackParameters: false
+SortIncludes: false
+Cpp11BracedListStyle: false
+DerivePointerAlignment: false
+IndentGotoLabels: true
